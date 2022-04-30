@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7942a69-fafd-4ed9-b918-5d9a12233a83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constants/general.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helper/axiosInstance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/BloodGroup/Blood.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/BloodGroup/BloodCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/BloodGroup/Bloodhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/CreatePost/CreatePost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/CreatePost/CreatePostHtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/EditProfile/EditProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/EditProfile/EditProfileHtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/Events/Events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/Events/EventsHtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/Metrimony/MetrimonyHtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screens/Metrimony/Metromony.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/Provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/actions/authlogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/actions/logoutUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/initialStates/authInitialState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/reducers/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nevigation/AuthNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nevigation/AuthNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nevigation/MainNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nevigation/MainNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nevigation/RoutesName.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nevigation/RoutesName.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nevigation/TabNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nevigation/TabNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nevigation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nevigation/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Dictory/Directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Dictory/Directory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Dictory/DirectoryCss.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Dictory/DirectoryCss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Dictory/DirectoryDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Dictory/DirectoryDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Dictory/DirectoryHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Dictory/DirectoryHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Home/HomeHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Home/HomeHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Home/Post/PostCss.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Home/Post/PostCss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Home/Post/PostHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Home/Post/PostHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Login/loginhtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Login/loginhtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Message/MsgHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Message/MsgHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Notification/Notification.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Notification/Notification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Notification/NotificationHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Notification/NotificationHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Otp/Otp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Otp/Otp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Otp/OtpHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Otp/OtpHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/PeoPle/PeopleHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/PeoPle/PeopleHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/PreProfile/PreProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/PreProfile/PreProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/PreProfile/PreprofileHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/PreProfile/PreprofileHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Profile/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Profile/ProfileHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Profile/ProfileHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/menu/MenuCss.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/menu/MenuCss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/menu/MenuHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/menu/MenuHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/Customclr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/theme/Customclr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="238kM4JbTKeQXq1WRgmSL4yggqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7942a69-fafd-4ed9-b918-5d9a12233a83" name="Default Changelist" comment="" />
+      <created>1641123052017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641123052017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="176" key="FileChooserDialogImpl" timestamp="1641123172127">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="176" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1641123172127" />
+  </component>
+</project>

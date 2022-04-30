@@ -1,0 +1,85 @@
+[06-Dec-2016 11:06:44 UTC] PHP Fatal error:  Call to undefined method Seller::sellerLayout() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 62
+[06-Dec-2016 11:09:06 UTC] PHP Fatal error:  Call to undefined method Seller::sellerLayout() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 62
+[06-Dec-2016 11:09:12 UTC] PHP Fatal error:  Call to undefined method Seller::sellerLayout() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 62
+[06-Dec-2016 11:10:47 UTC] PHP Fatal error:  Call to undefined method Seller::frontLayout() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 32
+[14-Dec-2016 12:33:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ilearnersindia/public_html/feedbackbrain/application/views/front/includes/header.php on line 98
+[14-Dec-2016 12:33:50 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ilearnersindia/public_html/feedbackbrain/application/views/front/includes/header.php on line 120
+[19-Dec-2016 10:24:27 UTC] PHP Fatal error:  Call to undefined method SellerModel::sellerlogin() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Sellerajax.php on line 23
+[19-Dec-2016 10:24:38 UTC] PHP Fatal error:  Call to undefined method SellerModel::sellerlogin() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Sellerajax.php on line 23
+[19-Dec-2016 10:29:08 UTC] PHP Fatal error:  Call to undefined method SellerModel::sellerlogin() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Sellerajax.php on line 23
+[19-Dec-2016 10:33:28 UTC] PHP Fatal error:  Call to undefined method SellerModel::sellerlogin() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Sellerajax.php on line 23
+[19-Dec-2016 11:32:39 UTC] PHP Parse error:  syntax error, unexpected '$last_name' (T_VARIABLE), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 58
+[19-Dec-2016 11:35:23 UTC] PHP Parse error:  syntax error, unexpected '$last_name' (T_VARIABLE), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 58
+[19-Dec-2016 11:35:56 UTC] PHP Parse error:  syntax error, unexpected '$last_name' (T_VARIABLE), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 58
+[19-Dec-2016 11:38:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 69
+[19-Dec-2016 11:43:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 69
+[19-Dec-2016 12:17:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 44
+[19-Dec-2016 12:37:39 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Admin.php on line 323
+[19-Dec-2016 13:14:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 38
+[19-Dec-2016 13:14:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 38
+[19-Dec-2016 13:14:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 38
+[19-Dec-2016 13:15:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 38
+[19-Dec-2016 13:15:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 60
+[19-Dec-2016 13:35:31 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 27
+[19-Dec-2016 13:43:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 45
+[19-Dec-2016 13:43:49 UTC] PHP Fatal error:  Call to a member function checkloggedin() on a non-object in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 36
+[20-Dec-2016 05:55:29 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 155
+[20-Dec-2016 06:14:18 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 179
+[20-Dec-2016 09:50:55 UTC] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 44
+[20-Dec-2016 09:51:00 UTC] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 44
+[20-Dec-2016 09:51:04 UTC] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 44
+[20-Dec-2016 09:51:08 UTC] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/ilearnersindia/public_html/feedbackbrain/application/models/SellerModel.php on line 44
+[21-Dec-2016 04:19:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 203
+[21-Dec-2016 04:46:49 UTC] PHP Fatal error:  Call to undefined method SellerModel::sellerprofile() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Seller.php on line 298
+[21-Dec-2016 10:41:51 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ilearnersindia/public_html/feedbackbrain/application/views/dashboard/pages/settings/region.php on line 118
+[21-Dec-2016 10:41:53 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ilearnersindia/public_html/feedbackbrain/application/views/dashboard/pages/settings/region.php on line 118
+[21-Dec-2016 10:42:05 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ilearnersindia/public_html/feedbackbrain/application/views/dashboard/pages/settings/region.php on line 118
+[22-Dec-2016 04:58:04 UTC] PHP Fatal error:  Cannot redeclare Affilate::dashboard() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 65
+[22-Dec-2016 04:58:05 UTC] PHP Fatal error:  Cannot redeclare Affilate::dashboard() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 65
+[22-Dec-2016 04:58:06 UTC] PHP Fatal error:  Cannot redeclare Affilate::dashboard() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 65
+[22-Dec-2016 04:58:07 UTC] PHP Fatal error:  Cannot redeclare Affilate::dashboard() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 65
+[22-Dec-2016 04:58:07 UTC] PHP Fatal error:  Cannot redeclare Affilate::dashboard() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 65
+[22-Dec-2016 04:58:08 UTC] PHP Fatal error:  Cannot redeclare Affilate::dashboard() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 65
+[22-Dec-2016 06:24:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 385
+[22-Dec-2016 06:24:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 386
+[22-Dec-2016 06:25:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 386
+[22-Dec-2016 06:25:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 386
+[22-Dec-2016 06:27:27 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 387
+[22-Dec-2016 06:29:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 395
+[22-Dec-2016 06:29:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 395
+[22-Dec-2016 06:45:20 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 395
+[22-Dec-2016 06:45:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 203
+[22-Dec-2016 06:48:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 395
+[22-Dec-2016 06:48:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ilearnersindia/public_html/feedbackbrain/application/models/AdminModel.php on line 395
+[22-Dec-2016 06:58:41 UTC] PHP Fatal error:  Call to undefined method AdminModel::affilateregister() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilateajax.php on line 28
+[22-Dec-2016 06:58:46 UTC] PHP Fatal error:  Call to undefined method AdminModel::affilateregister() in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilateajax.php on line 28
+[22-Dec-2016 09:03:05 UTC] PHP Parse error:  syntax error, unexpected ''specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:04:15 UTC] PHP Parse error:  syntax error, unexpected '', specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:05:56 UTC] PHP Parse error:  syntax error, unexpected '', specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:07:18 UTC] PHP Parse error:  syntax error, unexpected '', specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:08:15 UTC] PHP Parse error:  syntax error, unexpected '', specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:08:18 UTC] PHP Parse error:  syntax error, unexpected '', specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:09:48 UTC] PHP Parse error:  syntax error, unexpected '', specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:09:55 UTC] PHP Parse error:  syntax error, unexpected '', specify_other'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 121
+[22-Dec-2016 09:14:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 147
+[22-Dec-2016 09:23:42 UTC] PHP Fatal error:  Call to undefined function alert() in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 54
+[22-Dec-2016 09:23:59 UTC] PHP Fatal error:  Call to undefined function alert() in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 54
+[22-Dec-2016 09:24:06 UTC] PHP Fatal error:  Call to undefined function alert() in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 54
+[22-Dec-2016 09:36:43 UTC] PHP Fatal error:  Call to undefined function alert() in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 112
+[22-Dec-2016 10:02:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ilearnersindia/public_html/feedbackbrain/application/views/dashboard/pages/subadmin/lists.php on line 165
+[22-Dec-2016 10:14:49 UTC] PHP Fatal error:  Call to a member function checkloggedin() on a non-object in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 12
+[22-Dec-2016 10:14:50 UTC] PHP Fatal error:  Call to a member function checkloggedin() on a non-object in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 12
+[22-Dec-2016 10:14:51 UTC] PHP Fatal error:  Call to a member function checkloggedin() on a non-object in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 12
+[22-Dec-2016 10:17:53 UTC] PHP Fatal error:  Call to a member function checkloggedin() on a non-object in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 24
+[22-Dec-2016 10:17:54 UTC] PHP Fatal error:  Call to a member function checkloggedin() on a non-object in /home/ilearnersindia/public_html/feedbackbrain/application/controllers/Affilate.php on line 24
+[22-Dec-2016 10:20:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ilearnersindia/public_html/feedbackbrain/application/views/dashboard/pages/subadmin/lists.php on line 164
+[22-Dec-2016 11:11:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ilearnersindia/public_html/feedbackbrain/application/views/dashboard/pages/subadmin/lists.php on line 164
+[22-Dec-2016 11:33:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ilearnersindia/public_html/feedbackbrain/application/views/dashboard/pages/subadmin/lists.php on line 164
+[22-Dec-2016 13:01:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ilearnersindia/public_html/feedbackbrain/application/views/affilate/dashboard/dashboard.php on line 81
+[22-Dec-2016 13:01:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ilearnersindia/public_html/feedbackbrain/application/views/affilate/dashboard/dashboard.php on line 81
+[22-Dec-2016 13:02:12 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ilearnersindia/public_html/feedbackbrain/application/views/affilate/dashboard/dashboard.php on line 81
+[22-Dec-2016 13:35:30 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 271
+[22-Dec-2016 13:35:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 271
+[22-Dec-2016 13:35:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 271
+[22-Dec-2016 13:35:45 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 271
+[22-Dec-2016 13:35:57 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/ilearnersindia/public_html/feedbackbrain/application/models/AffilateModel.php on line 277

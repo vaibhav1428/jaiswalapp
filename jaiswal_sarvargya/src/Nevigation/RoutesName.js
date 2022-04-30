@@ -1,0 +1,34 @@
+export const LOGIN = 'login';
+export const OTP = 'otp';
+export const PREPROFILE = 'preprofile';
+export const TAB = 'tab';
+export const HOME = 'home';
+export const MENU = 'menu';
+export const PEOPLE = 'people';
+export const MESSAGE = 'message';
+export const NOTIFICATION = 'notification';
+export const PROFILE = 'profile';
+export const EDITPROFILE = 'editprofile';
+export const DIRECTORY = 'Directory';
+export const DIRECTORYDETAILS = 'directorydetails';
+export const BLOODGROUP = 'bloodgroup';
+export const METROMONY = 'metromony';
+export const EVENTS = 'events';
+export const CREATEPOST = 'createpost';
+export const CONTACTUS = 'ContactUs';
+export const ADDFAMILY = 'contactus';
+export const SETTING = 'setting';
+export const COMMENTSCREEN = 'commentscreen';
+export const CREATEEVENT = 'createevent';
+export const BUSINESS = 'business';
+export const METRIMONIALDETAILS = 'metrimonialdetails';
+export const EDITMETRIMONIAL = 'editmetrimonial';
+export const PERSONALMSG = 'Personalmsg';
+export const POINTRULE = 'PointRule';
+export const REPOSRTPOST = 'ReposrtPost';
+export const SHARESCREEN = 'sharescreen';
+export const CREATESHOP = 'createshop';
+export const SHOPPROFILE = 'shopprofile';
+export const BUSINESSDETAILS = 'businessdetails';
+
+
